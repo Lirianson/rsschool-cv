@@ -14,8 +14,10 @@ Learing the Basics of Web Development
 Gained knowledge of vanilla JS, HTML and css (especcialy Flexbox and CSS GRID )
 Softline IT and technologies*
 
-
-
+> Решение задачи CODEWARS
+```function multiply(a, b){
+ return a * b
+}```
 
 
 
